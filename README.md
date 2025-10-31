@@ -31,7 +31,7 @@ The website includes the following sections:
 - **Contact**
 - **Footer**
 
-## 📱 Responsiveness
+## Responsiveness
 
 The site is optimized for:
 
@@ -41,33 +41,8 @@ The site is optimized for:
 
 > Responsive design is achieved using media queries and flexible layouts.
 
-## 🧪 How to Run Locally
+## Notes
 
-1. Open your code editor (e.g., Visual Studio Code, etc.).
-2. In your code editor, open the terminal.
-3. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/portfolio-website.git
-   ```
-4. Open index.html in your browser, or run the website locally using the Live Server Extension.
-
-## 📂 Folder Structure
-
-```bash
-portfolio-website/
-│
-├── index.html
-├── style.css
-├── images/
-└── README.md
-```
-
-## 📄 Notes
-
-- I used ChatGPT to help me structure the HTML layout and fix a CSS bug.
+- I used ChatGPT to check for bugs
 - I designed the color scheme and layout myself using Figma or Canva.
 - I wrote the project descriptions and contact section manually.
-
-## 📸 Screenshots
-
-_Add screenshots of your website on different devices here and website design created in Figma or Canva._
